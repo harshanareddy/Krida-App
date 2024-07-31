@@ -36,6 +36,10 @@ GIF created with LicaCap
 
 Describe any challenges encountered while building the app.
 
+1. Trying to understand the code which was developed previously.
+2. Working with styling part of the website while scaling the game cards.
+
+
 ## License
 
     Copyright [2024] [Harshana Reddy Gillala]
